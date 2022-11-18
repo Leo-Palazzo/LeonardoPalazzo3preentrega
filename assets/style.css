@@ -1,0 +1,325 @@
+ul {
+  overflow: hidden;
+  list-style: none;
+  display: inline-block;
+  font-weight: bold; }
+
+nav {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background: linear-gradient(230.55deg, #0c23f2 0%, #e0ee43 100%);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  height: 95px; }
+
+p {
+  background: linear-gradient(230.55deg, #0c23f2 0%, #e0ee43 100%); }
+
+ul li {
+  float: left; }
+
+li {
+  float: left; }
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 0px 30px;
+  text-decoration: none; }
+
+li a:hover {
+  background: linear-gradient(230.55deg, #0c23f2 0%, #e0ee43 100%); }
+
+.logo {
+  top: 0%;
+  width: 3.2%;
+  position: fixed;
+  padding-left: 2%; }
+
+.fondoroman {
+  margin: auto;
+  width: 60%;
+  padding: 10%;
+  background: linear-gradient(230.55deg, #0c23f2 0%, #e0ee43 100%);
+  display: flex;
+  flex-wrap: wrap;
+  background-size: cover; }
+
+.primerh1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+  margin: 0%;
+  font-size: 4rem;
+  padding: 6%;
+  left: 7%;
+  top: -40%;
+  color: #070beb;
+  text-shadow: 1px 1px 2px #d8c813, 0 0 25px #d8c813, 0 0 5px #d8c813; }
+
+.piedepagina {
+  background: linear-gradient(230.55deg, #0c23f2 0%, #e0ee43 100%);
+  padding: 2%; }
+
+a:visited {
+  background-color: cyan; }
+
+a:hover {
+  background-color: #fffb07; }
+
+.h1info {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+  margin: 0%;
+  font-size: 4rem;
+  padding: 6%;
+  left: 7%;
+  top: -40%;
+  color: #070beb;
+  text-shadow: 1px 1px 2px #d8c813, 0 0 25px #d8c813, 0 0 5px #d8c813; }
+
+.info {
+  display: flex;
+  justify-content: center;
+  color: #e0ee43;
+  text-align: center;
+  margin: 5%;
+  width: 100%;
+  padding: 2%;
+  font-size: 140%;
+  background: linear-gradient(220.55deg, #565656 0%, #181818 100%);
+  width: 85%;
+  height: 25%;
+  background-size: cover; }
+
+.trayectoria {
+  text-align: center;
+  margin: 3%;
+  width: 94%;
+  padding: 0%;
+  font-size: 100%;
+  float: top;
+  font-size: 4rem;
+  color: #070beb;
+  text-shadow: 1px 1px 2px #d8c813, 0 0 25px #d8c813, 0 0 5px #d8c813; }
+
+.clubes {
+  text-align: center;
+  margin: auto;
+  width: 90%;
+  padding: 0rem;
+  font-size: 120%;
+  float: top;
+  background: linear-gradient(220.55deg, #565656 0%, #181818 100%); }
+
+video {
+  margin: auto;
+  width: 60%;
+  padding: 10%;
+  background: linear-gradient(230.55deg, #0c23f2 0%, #e0ee43 100%);
+  display: flex;
+  flex-wrap: wrap;
+  background-size: cover; }
+
+.contact_form {
+  width: 460px;
+  height: auto;
+  margin: 80px auto;
+  border-radius: 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background: linear-gradient(230.55deg, #0c23f2 0%, #e0ee43 100%);
+  padding-left: 30px; }
+
+input {
+  background-color: #fbfbfb;
+  width: 408px;
+  height: 40px;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+  margin-top: 10px;
+  padding-left: 10px;
+  margin-bottom: 20px; }
+
+textarea {
+  background-color: #fbfbfb;
+  width: 405px;
+  height: 150px;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+  margin-top: 10px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  padding-top: 15px; }
+
+label {
+  display: block;
+  float: center; }
+
+button {
+  height: 45px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  text-transform: uppercase;
+  background-color: #e9e9e9;
+  border-color: #ffffff;
+  border-style: solid;
+  border-radius: 10px;
+  width: 420px;
+  cursor: pointer; }
+
+button p {
+  color: #fff; }
+
+span {
+  color: #ab4493; }
+
+.aviso {
+  font-size: 13px;
+  color: #0e0e0e; }
+
+h1 {
+  font-size: 39px;
+  text-align: letf;
+  padding-bottom: 20px;
+  color: #d7eb2a; }
+
+h3 {
+  font-size: 16px;
+  padding-bottom: 30px;
+  color: #0e0e0e; }
+
+p {
+  font-size: 14px;
+  color: #0e0e0e; }
+
+.formulario input:focus {
+  outline: 0;
+  border: 1px solid #97d848; }
+
+.formulario textarea:focus {
+  outline: 0;
+  border: 1px solid #97d848; }
+
+.menu {
+  font-size: 220%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 0%; }
+
+.redes {
+  width: 40px;
+  height: 40px;
+  float: right;
+  padding-right: 1%; }
+
+.h1fotos {
+  text-align: center;
+  margin: -9%;
+  font-size: 82px;
+  position: absolute;
+  padding: 30%;
+  left: 23%;
+  top: -30%;
+  font-family: monospace; }
+
+.textindex {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 50%;
+  padding: 80px;
+  font-size: 220%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; }
+
+.subtituloindex {
+  text-align: center;
+  font-size: 290%;
+  text-shadow: 1px 1px 2px #d8c813, 0 0 25px #d8c813, 0 0 5px #d8c813;
+  color: #0c23f2;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 100px;
+  margin: 5%; }
+
+.grid-item {
+  background: linear-gradient(230.55deg, #0c23f2 0%, #e0ee43 100%);
+  padding: 22px;
+  height: 30vh;
+  height: 550px;
+  overflow: hidden;
+  margin: 20px; }
+
+.grid-item > img {
+  width: 100%;
+  height: 100%;
+  transition: 0.5s;
+  object-fit: cover; }
+
+img:hover {
+  transform: scale(1.2); }
+
+@media only screen and (max-width: 1200px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto;
+    padding: 0px;
+    width: 100%; } }
+
+@media only screen and (min-width: 600px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto;
+    padding: 0px; } }
+
+@media only screen and (min-width: 992px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 0px; } }
+
+@media only screen and (min-width: 1200px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 0px; } }
+
+@media only screen and (max-width: 1200px) {
+  .menu {
+    font-size: 100%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    margin: 0%;
+    padding: 0%; } }
+
+@media only screen and (max-width: 1200px) {
+  .h1info {
+    margin: 0%;
+    padding: 0%;
+    font-size: 50px; } }
+
+@media only screen and (max-width: 1200px) {
+  .piedepagina {
+    margin: 0%;
+    padding: 10%;
+    font-size: 10px; } }
+
+@media only screen and (max-width: 1200px) {
+  .fondoroman {
+    display: flex;
+    justify-content: flex-end;
+    margin-block-end: auto;
+    width: 90%; } }
+
+@media only screen and (max-width: 1200px) {
+  video {
+    padding: 22%;
+    margin-top: 14%; } }
